@@ -1,0 +1,2 @@
+# Projeto-de-Backend-do-curso-de-Desenvolvimento-Web
+O objetivo deste projeto é desenvolver uma aplicação web completa utilizando o SQLlite. Você deve implementar funcionalidades essenciais, seguindo os requisitos mínimos descritos na documentação, e entregar um projeto final que será avaliado com base em diversos critérios. Porém, é recomendável utilizar um banco de dados melhor como o PostgreSQL.
